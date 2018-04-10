@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NetFun</string>
+    <string name="make_request_button">Make Request</string>
 </resources>
