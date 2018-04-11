@@ -38,4 +38,9 @@ public class Skis {
         this.model = builder.model;
         this.lengthCm = builder.lengthCm;
     }
+
+    @Override
+    public String toString() {
+        return String.format("Skis: %s %s", brand, model);
+    }
 }

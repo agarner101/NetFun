@@ -48,4 +48,9 @@ public class Skier {
         this.skillLevel = builder.skillLevel;
         this.skis = builder.skis;
     }
+
+    @Override
+    public String toString() {
+        return String.format("Skier %s %s", firstName, lastName);
+    }
 }
