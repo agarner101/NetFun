@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">NetFun</string>
-    <string name="make_request_button">Make Request</string>
+    <string name="question">Who is the best skier?</string>
+    <string name="make_request_button">Find Out!</string>
+    <string name="skier_retrieval_failure">Failed to retrieve skier</string>
+    <string name="skier_retrieval_success">Best Skier: %s %s</string>
 </resources>
